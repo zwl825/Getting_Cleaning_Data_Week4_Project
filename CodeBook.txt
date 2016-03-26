@@ -1,7 +1,7 @@
 ==================================================================
 This file and files included in the project are for the purpose of Cousera Data Science Class.
 
-The dataset includes the following files:
+The project includes the following files:
 =========================================
 
 - 'README.md'
