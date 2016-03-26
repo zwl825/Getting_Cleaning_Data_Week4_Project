@@ -63,6 +63,7 @@ tidyData3 <- tidyData2 %>%
 
 write.csv(tidyData2,file="tidyDataHAR.csv")
 write.csv(tidyData3,file="tidyDataHARavg.csv")
+write.table(tidyData3,file="tidyData3.txt",row.name=FALSE)
 ###
 ### output tidyData1 is a temp holding varible, combined 
 ###                  training and test data, with descriptive col names
